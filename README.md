@@ -1,16 +1,20 @@
 # 💫 Hi 👋, I'm Rushikesh Chavhan 
 **A passionate Java Full Stack Developer || From Pune, India**
 
-Email Me 👉 ✉️ **rushikeshchavhan23@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=2C96C7&center=true&vCenter=true&width=600&lines=Master+Of+Computer+Application;Full+Stack+Java+Developer;%26+Web+Developer" />
+</p>
 
-- 🔭 **I’m currently working on:** Java Based project as a Backend Developer
-- 🌱 **I’m completed my Degree in MCA :** Pune university with CGPA 8.05
-- 👯 **I’m looking to collaborate on:** ReadCycle Application Project
-- 🤔 **I’m looking for jobs in :** Domain Java Full Stack
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** rushikeshchavhan23@gmail.com/+91 9503445620
-- 😄 **Pronouns:** Rushi Chavhan
-- ⚡ **Fun fact:** I Love Coding and coding Loves Me
+---
+## 🧑‍💻 About Me  
+
+- 🎓 Master Of Computer Application (M.C.A – Pune University, CGPA: 8.05)  
+- 💻 Hands-on expertise in **Java Full Stack, REST APIs, ReactJS**  
+- 🔒 Experienced in **5 Month Internship In Technoworld Software**  
+- 📈 Strong grasp of **Java, Spring, SpringBoot & (ORM)Hibernate Frameworks, With Database MySQL**  
+- 🌱 Currently exploring **Microservices**  
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishhii_gujar01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikeshchavhan11/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rushikeshchavhan23@gmail.com) 
 
@@ -23,20 +27,48 @@ Email Me 👉 ✉️ **rushikeshchavhan23@gmail.com** For Collaboration/Project 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rushi011001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
+## 📊 GitHub Overview  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushi011001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=Rushi011001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Rushi011001&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChavhanRushikesh&show_icons=true&theme=default" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChavhanRushikesh&theme=default" height="170"/>
+</p>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rushi011001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChavhanRushikesh&theme=minimal&hide_border=true&area=true" width="95%"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rushi011001&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 👀 Profile Preview  
+
+<p align="center">
+  <a href="https://github.com/ChavhanRushikesh">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChavhanRushikesh&theme=default" width="95%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ChavhanRushikesh">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChavhanRushikesh&theme=default" height="150"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChavhanRushikesh&theme=default" height="150"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ChavhanRushikesh">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChavhanRushikesh&theme=default" height="150"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChavhanRushikesh&theme=default&utcOffset=5.5" height="150"/>
+  </a>
+</p>
+
+---
+
+## 🎓 Certifications  
+
+- ✅ Java Full-Stack Developer Internship – Techno World Software
+- ✅ C, CPP, DSA using C and JS – Galaxy Computers 
+- ✅ Front-End Development – Techno World Software
+
+---
