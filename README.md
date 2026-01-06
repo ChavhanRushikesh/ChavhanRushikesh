@@ -100,7 +100,8 @@ MySQL • MongoDB
 ## 🎓 Certifications
 
 - ✔ Java Full-Stack Developer Internship – TechnoWorld Software  
-- ✔ C, C++, DSA using C & JavaScript – Galaxy Computers  
+- ✔ C, C++, DSA using C & JavaScript – Galaxy Computers
+- ✔ Python - Marvellous Infosystem 
 - ✔ Front-End Development – TechnoWorld Software  
 
 ---
