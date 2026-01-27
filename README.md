@@ -51,7 +51,7 @@ MySQL • MongoDB
 # 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,mysql,mongodb,git,postman" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,hibernate,react,js,html,css,mysql,mongodb,git,postman" />
 </p>
 
 ---
