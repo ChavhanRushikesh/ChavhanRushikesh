@@ -35,7 +35,7 @@
 ## 🛠 Technical Skills
 
 ### 🔹 Languages  
-Java • JavaScript • SQL • HTML • CSS • C • C++
+Java • JavaScript • SQL • HTML • CSS • C • C++ • python
 
 ### 🔹 Frameworks  
 Spring Boot • Spring MVC • Hibernate (ORM) • JSP/Servlets • ReactJS
