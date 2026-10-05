@@ -77,16 +77,26 @@ MySQL • MongoDB
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChavhanRushikesh&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChavhanRushikesh&theme=default" height="150"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ChavhanRushikesh&show_icons=true&theme=tokyonight" 
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ChavhanRushikesh&theme=tokyonight" 
+    height="180"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChavhanRushikesh&theme=minimal&area=true&hide_border=true" width="95%"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChavhanRushikesh&layout=compact&theme=tokyonight" 
+    height="180"
+    alt="Top Languages"
+  />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
